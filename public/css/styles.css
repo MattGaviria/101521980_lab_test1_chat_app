@@ -1,0 +1,9 @@
+.chat-box {
+  height: 320px;
+  overflow-y: auto;
+  font-family: system-ui, Arial, sans-serif;
+  font-size: 14px;
+}
+
+.msg-line { margin-bottom: 6px; }
+.msg-meta { color: #666; font-size: 12px; }
