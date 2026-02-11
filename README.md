@@ -1,7 +1,6 @@
 # 101521980_lab_test1_chat_app
 
-Real-time Chat Application (Lab Test 1) built with **Node.js, Express, Socket.io, MongoDB (Mongoose)** and a simple **HTML/Bootstrap
-+ jQuery** frontend.
+Real-time Chat Application (Lab Test 1) built with **Node.js, Express, Socket.io, MongoDB (Mongoose)** and **HTML/Bootstrap
 
 ---
 
@@ -30,3 +29,4 @@ Real-time Chat Application (Lab Test 1) built with **Node.js, Express, Socket.io
 ### Frontend
 - HTML5
 - Bootstrap
+<img width="1918" height="907" alt="Screenshot 2026-02-11 183125" src="https://github.com/user-attachments/assets/1d118aa3-1d15-4fe2-a3be-79b0d3b98943" />
